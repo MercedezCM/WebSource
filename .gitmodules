@@ -1,0 +1,4 @@
+[submodule "academic-kickstart-master/public"]
+	path = academic-kickstart-master/public
+	url = https://github.com/MercedezCM/MercedezCM.github.io.git
+	branch = master
