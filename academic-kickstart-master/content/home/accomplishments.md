@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Fulbright Program"
   organization_url = ""
-  title = "Fulbright Fellowship"
+  title = "Fulbright Scholar"
   url = ""
   certificate_url = ""
   date_start = "2011-09-01"
@@ -48,4 +48,54 @@ date_format = "Jan 2006"
   date_end = "2013-05-01"
   description = ""
 
+[[item]]
+  organization = "Center for Latin American Studies at the University of Pittsburg"
+  organization_url = ""
+  title = "The John Frechione Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Harold D. Clarke and Ashbel Smith Professor at The University of Texas at Dallas"
+  organization_url = ""
+  title = "Travel and Study Abroad Grant, University of Essex"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-07-01"
+  date_end = ""
+  description = ""
+  
+ 
+[[item]]
+  organization = "ACES Study Abroad Program - Njala University in Sierra Leone"
+  organization_url = ""
+  title ="AYRE Interational Research and Learning Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-01-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Consortium for Economic and Social Research (CIES) and the Interational Development Research Center (IDRC)"
+  organization_url = ""
+  title ="Finalist at the National Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2009-07-01"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "Universidad de Los Andes, Bogota, Colombia"
+  organization_url = ""
+  title ="LACEA Studies and Global Development Network (GDN) Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2008-01-01"
+  date_end = ""
+  description = ""
 +++

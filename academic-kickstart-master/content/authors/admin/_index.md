@@ -15,7 +15,7 @@ role: Ph.D. Candidate in Public Policy and Political Economy
 # Organizations/Affiliations
 organizations:
 - name: University of Texas at Dallas
-  url: "utd.edu"
+  url: "https://utd.edu"
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -49,17 +49,17 @@ social:
   icon_pack: fab
   link: https://twitter.com/M_Callenes
 - icon: linkedin
-  icon_pack: in
+  icon_pack: fab
   link: https://www.linkedin.com/in/mercedez-callenes-57800016/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=7SLFcyYAAAAJ&hl=en
-
+#- icon: cv
+#  icon_pack: ai 
+#  link: cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static\files\cv.pdf and uncomment the lines below.
-icon: cv
-icon_pack: ai 
-link: cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mercedez.callenes@utdallas.edu"
