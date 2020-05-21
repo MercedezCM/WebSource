@@ -70,5 +70,15 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Mercedez Callenes is a Ph.D. Candidate in the School of Economic, Political, and Policy Sciences at the University of Texas at Dallas. She received her M.Sc. in Applied Economics from the University of Illinois at Urbana-Champaign (UIUC) with the support of a U.S. Fulbright Grant. Before graduating from UIUC, she earned a B.Sc. in Economics from the Pontifical Catholic University of Peru.
+I am a Ph.D. Candidate in Public Policy
+and Political Economy at the University of Texas at Dallas. I earned a
+Master of Science in Applied Economics from the University of Illinois
+at Urbana-Champaign (UIUC) with the support of the Fulbright grant.
+Before graduating from UIUC, I received a bachelor's degree in
+economics from the Pontificia Universidad Católica del Perú and worked
+as an assistant researcher in the Grupo de Analisis para el Desarrollo
+(GRADE).  I have co-authored articles published in the Journal of
+World Development, the Journal of Development Studies, and the Journal
+of Defence and Peace Economics. My research interests focus on
+gender-sensitive policies, rural development, peace and conflict
+studies, and poverty reduction strategies in Latin America.

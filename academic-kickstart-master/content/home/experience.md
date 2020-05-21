@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Political Economy of Development in Latin America"
+  company = "University of Texas at Dallas"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = ""
+  date_start = "2019-05-23"
+  date_end = "2019-08-12"
   description = """
-  Responsibilities include:
+  Class Number : IPEC 4396.0U1.19U
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Regional Topics in International Political Economy - Latin America"
+  company = "University of Texas at Dallas"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2019-08-17"
+  date_end = "2019-12-17"
+  description = """
+  Class Number : IPEC 4307.001.87283
+  
+    """
+
+[[experience]]
+  title = "Student Review"
+  company = "University of Texas at Dallas"
+  company_url = ""
+  location = ""
+  date_start = "2019-08-17"
+  date_end = ""
+  description = """
+  sfdafjslafdjaldfjslajfl
+  hkahsdkfhaksfhdkahdkjfkasdjh
+  hadfhsakfhkahfdjhkasfhdkajsf
+  
+    """
 
 +++
