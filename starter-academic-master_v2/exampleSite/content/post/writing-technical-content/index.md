@@ -69,7 +69,8 @@ Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathb
 
 Example **multi-line math** using the `\\\\` math linebreak:
 
-```latex
+
+```tex
 $$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
 1-p_0^* & \text {if }k=0.\end{cases}$$
 ```
