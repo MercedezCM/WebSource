@@ -2,3 +2,7 @@
 	path = academic-kickstart-master/public
 	url = https://github.com/MercedezCM/MercedezCM.github.io.git
 	branch = master
+[submodule "starter-academic-master_v2/public"]
+	path = starter-academic-master_v2/public
+	url = https://github.com/mercedezcm/mercedezcm.github.io.git
+	branch = master

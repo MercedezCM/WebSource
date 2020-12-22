@@ -61,7 +61,7 @@ May 2019 - Aug 2019 / Summer 2019  \
 Class Number : IPEC 4396.0U1.19U
 
 
-### Graduate Teacher Certificate: by the Center for Teaching & Learning (CTL)
+### Graduate Teaching Certificate: by the Center for Teaching & Learning (CTL)
 **The University of Texas at Dallas, 2020**  
 
 ### Student reviews
