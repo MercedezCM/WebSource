@@ -71,6 +71,15 @@ email: "mercedez.callenes@utdallas.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Public Policy and Political Economy at the University of Texas at Dallas. I earned a Master of Science in Applied Economics from the University of Illinois at Urbana-Champaign (UIUC) with the support of the Fulbright grant. Before graduating from UIUC, I received a bachelor's degree in economics from the Pontificia Universidad Católica del Perú and worked as an assistant researcher in the Grupo de Analisis para el Desarrollo (GRADE).  I have co-authored articles published in the Journal of World Development, the Journal of Development Studies, the Journal of Applied Geography, and the Journal of Defence and Peace Economics. My research interests focus on gender-sensitive policies, rural development, peace and conflict studies, and poverty reduction strategies in Latin America.
+I am a Ph.D. Candidate in Public Policy and Political Economy at the University of Texas at Dallas. I
+earned a Master of Science in Applied Economics from the University of Illinois at Urbana-Champaign
+(UIUC) with the support of the Fulbright grant. Before graduating from UIUC, I received a bachelor’s
+degree in Economics from the Pontificia Universidad Católica del Perú and worked as an assistant
+researcher in the Grupo de Análisis para el Desarrollo. I have co-authored articles published in the
+Journal of World Development, the Journal of Development Studies, the Journal of Applied Geography,
+and the Journal of Defence and Peace Economics. My research interests focus on gender-sensitive
+policies, development studies, peace and conflict studies, and poverty reduction policies for Latin
+America. My teaching portfolio includes courses such as Latin American political economy, comparative
+politics of Latin America, and economic development in Latin America.
 
 
