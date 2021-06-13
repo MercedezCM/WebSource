@@ -9,15 +9,15 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Public Policy and Political Economy
+role: Assistant Professor <br> Global Affairs
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Texas at Dallas
-  url: https://utd.edu
+- name: Trinity Washington University
+  url: https://trinitydc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include poverty studies, peace and conflict studies, and rural development and gender-sensitive policies in Latin America
 
 # Interests to show in About widget
 interests:
@@ -65,21 +65,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mercedez.callenes@utdallas.edu"
+email: "callenesm@trinitydc.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Public Policy and Political Economy at the University of Texas at Dallas. I
-earned a Master of Science in Applied Economics from the University of Illinois at Urbana-Champaign
-(UIUC) with the support of the Fulbright grant. Before graduating from UIUC, I received a bachelor’s
-degree in Economics from the Pontificia Universidad Católica del Perú and worked as an assistant
-researcher in the Grupo de Análisis para el Desarrollo. I have co-authored articles published in the
-Journal of World Development, the Journal of Development Studies, the Journal of Applied Geography,
-and the Journal of Defence and Peace Economics. My research interests focus on gender-sensitive
-policies, development studies, peace and conflict studies, and poverty reduction policies for Latin
-America. My teaching portfolio includes courses such as Latin American political economy, comparative
-politics of Latin America, and economic development in Latin America.
-
-
+I am an assistant professor of Global Affairs at Trinity Washington University.  I received my Ph.D. in Public Policy and Political Economy at the University of Texas at Dallas. I earned a Master of Science in Applied Economics from the University of Illinois at Urbana-Champaign (UIUC) with the support of the Fulbright grant. Before graduating from UIUC, I received a bachelor’s degree in Economics from the Pontificia Universidad Católica del Perú and worked as an assistant researcher in the Grupo de Análisis para el Desarrollo. I have co-authored articles published in the Journal of World Development, the Journal of Development Studies, the Journal of Applied Geography, and the Journal of Defence and Peace Economics. My research interests focus on gender-sensitive policies, development studies, peace and conflict studies, and poverty reduction policies for Latin America. My teaching portfolio includes courses such as Latin American political economy, comparative politics of Latin America, and economic development in Latin America.
